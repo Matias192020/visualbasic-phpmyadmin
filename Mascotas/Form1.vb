@@ -1,6 +1,7 @@
 ﻿Imports MySql.Data.MySqlClient
 
-
+'Matias Techera
+'El boton Editar y Eliminar por algua razon no me funcionaron
 
 Public Class Form1
 
